@@ -3,7 +3,8 @@
 
 int main()
 {
-	while(1);
+	printf("ejlkdfl\n");
+	printf("1321564546");
 
 
 	return 0;
